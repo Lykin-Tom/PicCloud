@@ -1,2 +1,2 @@
 # PicCloud
-picgo图床
+个人picgo图床
